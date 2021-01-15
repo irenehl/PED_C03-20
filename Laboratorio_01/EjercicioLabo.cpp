@@ -24,6 +24,7 @@ void mostrarTemperatura(struct dataTemp *data, int n);
 float calculateAverage(struct dataTemp *data, int n);
 void maxTemperature(struct dataTemp *data, int n);
 void minTemperature(struct dataTemp *data, int n);
+
 /*
     Otra forma de hacerlo: 
     struct data{
